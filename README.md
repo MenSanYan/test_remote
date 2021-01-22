@@ -8,3 +8,5 @@ branch0 information.
 * List item
 
 **Bold item**
+
+- [] Checklist

@@ -9,4 +9,4 @@ branch0 information.
 
 **Bold item**
 
-- [] Checklist
+- [ ] Checklist

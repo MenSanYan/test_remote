@@ -5,3 +5,4 @@ branch0 information.
 
 ## Header2
 * List item
+**Bold item**
